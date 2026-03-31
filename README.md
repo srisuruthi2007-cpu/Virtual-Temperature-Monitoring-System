@@ -24,7 +24,7 @@ This project is based on:
    python Virtual Temperature live Monitoring System.py
 
 ## 📊 Output
-- Temperature readings in console
+- Temperature readings will be live in.    console
 - Graph visualization
 ## 📷 Output Screenshot
 <img src="Screenshot_20260331_102810_Pydroid 3.jpg" width="500">
