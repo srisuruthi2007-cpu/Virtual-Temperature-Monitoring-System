@@ -21,7 +21,7 @@ This project is based on:
    pip install matplotlib
 
 2. Run:
-   python Virtual Temperature Monitoring System.py
+   python Virtual Temperature live Monitoring System.py
 
 ## 📊 Output
 - Temperature readings in console
