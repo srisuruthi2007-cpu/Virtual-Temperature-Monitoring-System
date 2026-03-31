@@ -21,11 +21,13 @@ This project is based on:
    pip install matplotlib
 
 2. Run:
-   python signalscope.py
+   python Virtual Temperature Monitoring System.py
 
 ## 📊 Output
 - Temperature readings in console
 - Graph visualization
+- ## 📷 Output Screenshot
+<img src="Screenshot_20260331_102810_Pydroid 3.jpg" width="500">
 
 ## 🚀 Future Improvements
 - Add real sensor
