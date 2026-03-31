@@ -1,5 +1,5 @@
 # Virtual-Temperature-Monitoring-System
-IoT Temperature Monitoring System using Python
+Real-time IoT Temperature Monitoring System with Live Graph using Python
 # 🌡️ IoT Temperature Monitoring System (Python)
 
 ## 📌 Description
