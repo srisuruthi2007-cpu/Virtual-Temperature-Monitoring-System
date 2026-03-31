@@ -6,10 +6,10 @@ IoT Temperature Monitoring System using Python
 Real-time IoT Temperature Monitoring System with Live Graph using Python
 
 ## ⚙️ Features
-- Temperature data simulation
-- Threshold-based alert system
-- Graph visualization
-- Continuous monitoring
+- Real-time temperature data simulation
+- Live graph visualization using matplotlib
+- Threshold-based anomaly detection
+- Continuous monitoring system
 
 ## 🧠 Concept
 This project is based on:
