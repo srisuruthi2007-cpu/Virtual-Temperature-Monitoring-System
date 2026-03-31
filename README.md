@@ -1,9 +1,9 @@
 # Virtual-Temperature-Monitoring-System
-Real-time IoT Temperature Monitoring System with Live Graph using Python
+IoT Temperature Monitoring System using Python
 # 🌡️ IoT Temperature Monitoring System (Python)
 
 ## 📌 Description
-This project simulates an IoT-based temperature monitoring system using Python.
+Real-time IoT Temperature Monitoring System with Live Graph using Python
 
 ## ⚙️ Features
 - Temperature data simulation
